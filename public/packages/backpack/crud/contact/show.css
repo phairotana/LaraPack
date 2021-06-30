@@ -1,0 +1,135 @@
+.card {
+
+    border-top: 3px solid #3C8DBC !important;
+    }
+    
+    .card-header>.box-tools {
+    position: absolute;
+    right: 10px;
+    top: 6px;
+    z-index: 111111;
+    }
+    h5 {
+    font-size: 18px;
+    }
+    .box-widget {
+    border: none;
+    position: relative;
+    }
+    .box {
+    position: relative;
+    border-radius: 3px;
+    background: #FFFFFF;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    }
+    
+    .btn-box-tool {
+    padding: 5px;
+    font-size: 12px;
+    background: 0 0;
+    color: #97A0B3;
+    }
+    
+    .widget-user .widget-user-header {
+    padding: 20px;
+    height: 120px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    }
+    
+    .bg-primary {
+    background-color: #467FD0!important;
+    }
+    .bg-aqua {
+    background-color: #00C0EF !important;
+    }
+    
+    .nav .text-lowercase {
+    position: relative;
+    display: block;
+    padding: 5px 18px;
+    text-decoration: none;
+    }
+    
+    .box .nav-stacked>li {
+    border-bottom: 1px solid #F4F4F4;
+    margin: 0;
+    display: block;
+    width: 100%;
+    }
+    
+    
+    .widget-user .widget-user-username {
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: 400;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.2);
+    color:#fff;
+    }
+    .widget-user .widget-user-desc {
+    margin-top: 0;
+    color:#fff;
+    }
+    
+    .widget-user .widget-user-image {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    margin-left: -45px;
+    }
+    .widget-user .widget-user-image>img {
+    width: 70px;
+    height: auto;
+    border: 3px solid #FFF;
+    }
+    .widget-user .box-footer {
+    padding-top: 30px;
+    }
+    .box-footer {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-top: 1px solid #F4F4F4;
+    padding: 10px;
+    background-color: #FFF;
+    }
+    
+    .description-block {
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+    }
+    .description-block>.description-header {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 16px;
+    }
+    .description-block>.description-text {
+    text-transform: uppercase;
+    }
+
+/* ==========Owner Property============== */
+.small-thumbnail {
+        height: 52px;
+        width: 50px;
+        object-fit: cover;
+}
+
+a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.font-size-25 {
+    font-size: 1.25rem;
+}
+.font-weight-600 {
+    font-weight: 600;
+}
+    
